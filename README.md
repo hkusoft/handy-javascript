@@ -4,10 +4,10 @@ A collection of JavaScript that may be handy to you.
 ## Graphics, Charts, Diagrams, Visualizations
 
 <details> 
-  <summary> Fabric.js: A powerful and simple Javascript HTML5 canvas library ♂ http://fabricjs.com/ </summary> 
+  <summary>Fabric.js: A powerful and simple Javascript HTML5 canvas library ♂ http://fabricjs.com/ </summary> 
 </details>
 <details> 
-  <summary> ChartJS: Simple yet flexible JavaScript charting for designers & developers ♂ https://www.chartjs.org/</summary>   
+  <summary>ChartJS: Simple yet flexible JavaScript charting for designers & developers ♂ https://www.chartjs.org/</summary>   
     
   ![ChartJS](https://user-images.githubusercontent.com/1479100/45607189-2b018b80-ba7d-11e8-845e-d7ab810bc07f.png)   
 </details>
