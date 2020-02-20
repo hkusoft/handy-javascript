@@ -1,6 +1,8 @@
 # handy-javascript
 A collection of JavaScript that may be handy to you.
 
+<button name="button">Click me</button>
+
 
 ## Graphics, Charts, Diagrams, Visualizations
 
