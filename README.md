@@ -20,7 +20,11 @@ A collection of JavaScript that may be handy to you.
  </details>
   
 <details>
-    <summary>FusionCharts: Offers additional visualizations for your dashboards on top of ApexCharts ♂ https://apexcharts.com/ </summary> </details>
+    <summary>FusionCharts: ♂ https://apexcharts.com/ </summary> 
+  Offers additional visualizations for your dashboards on top of ApexCharts
+  
+  ![FusionCharts](https://upload.wikimedia.org/wikipedia/commons/9/95/FusionCharts_JavaScript_Charting_Library.png)
+</details>
 <details>
     <summary>D3: Bring data to life with SVG, Canvas and HTML ♂ https://github.com/d3/d3 </summary> </details>
 <details>
