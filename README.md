@@ -25,10 +25,13 @@ A collection of JavaScript that may be handy to you.
   
   ![FusionCharts](https://upload.wikimedia.org/wikipedia/commons/9/95/FusionCharts_JavaScript_Charting_Library.png)
 </details>
+
 <details>
-    <summary>D3: ♂ https://github.com/d3/d3 </summary> </details>
-    Bring data to life with SVG, Canvas and HTML 
+    <summary>D3: ♂ https://github.com/d3/d3 </summary> 
+    Bring data to life with SVG, Canvas and HTML   
     ![D3.js](https://skyose.com/wp-content/uploads/2018/10/maxresdefault-1-1.jpg)
+</details>
+
 <details>
     <summary>ThreeJS: JavaScript 3D library ♂ https://threejs.org/ </summary> </details>
 <details>
