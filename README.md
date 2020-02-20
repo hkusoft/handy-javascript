@@ -7,6 +7,7 @@ A collection of JavaScript that may be handy to you.
   <summary>Fabric.js: ♂ http://fabricjs.com/ ▽ </summary> 
   A powerful and simple Javascript HTML5 canvas library 
 </details>
+
 <details> 
   <summary>ChartJS: ♂ https://www.chartjs.org/ ▽ </summary>   
   
@@ -20,18 +21,22 @@ A collection of JavaScript that may be handy to you.
   
 <details>
     <summary>FusionCharts: ♂ https://apexcharts.com/  ▽ </summary> 
+  
     Offers additional visualizations for your dashboards on top of ApexCharts
     ![FusionCharts](https://upload.wikimedia.org/wikipedia/commons/9/95/FusionCharts_JavaScript_Charting_Library.png)
 </details>
 
 <details>
-    <summary>D3: ♂ https://github.com/d3/d3  ▽ </summary> 
+    <summary>D3: ♂ https://github.com/d3/d3  ▽ </summary>
+  
     Bring data to life with SVG, Canvas and HTML   
     ![D3.js](https://skyose.com/wp-content/uploads/2018/10/maxresdefault-1-1.jpg)
 </details>
 
 <details>
-    <summary>ThreeJS: JavaScript 3D library ♂ https://threejs.org/  ▽ </summary> </details>
+    <summary>ThreeJS: JavaScript 3D library ♂ https://threejs.org/  ▽ </summary> 
+</details>
+
 <details>
     <summary>Rough.js: Create graphics with a hand-drawn, sketchy, appearance. ♂ https://github.com/pshihn/rough  ▽ </summary> </details> 
     
