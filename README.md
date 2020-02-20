@@ -4,7 +4,7 @@ A collection of JavaScript that may be handy to you.
 ## Graphics, Charts, Diagrams, Visualizations
 
 <details> 
-  <summary>Fabric.js: ♂ http://fabricjs.com/ </summary> 
+  <summary>Fabric.js: ♂ http://fabricjs.com/ ▽ </summary> 
   A powerful and simple Javascript HTML5 canvas library 
 </details>
 <details> 
