@@ -143,6 +143,12 @@ Bring data to life with SVG, Canvas and HTML
 -[Verge3D ♂ https://www.soft8soft.com/verge3d/ : The most effective toolkit for creating web interactives
 <details>
     <summary>Anime.js ♂ https://animejs.com/ : A lightweight JavaScript animation library with a simple, yet powerful API.</summary> </details>
+    
+<details>
+    <summary>GreenSock ♂ https://greensock.com/ : A lightweight JavaScript animation library with a simple, yet powerful API.</summary> </details>
+    
+    
+    
 
 ## Games & rendering engines
 <details>
