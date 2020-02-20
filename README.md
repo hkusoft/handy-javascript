@@ -8,36 +8,38 @@ A collection of JavaScript that may be handy to you.
   A powerful and simple Javascript HTML5 canvas library 
 </details>
 <details> 
-  <summary>ChartJS: ♂ https://www.chartjs.org/</summary>   
+  <summary>ChartJS: ♂ https://www.chartjs.org/ ▽ </summary>   
   
   Simple yet flexible JavaScript charting for designers & developers
-    
   ![ChartJS](https://user-images.githubusercontent.com/1479100/45607189-2b018b80-ba7d-11e8-845e-d7ab810bc07f.png)   
 </details>
 
 <details>
-    <summary>ApexCharts: Brings you the goodness of open-source charts</summary> 
+    <summary>ApexCharts: Brings you the goodness of open-source charts ▽ </summary> 
  </details>
   
 <details>
-    <summary>FusionCharts: ♂ https://apexcharts.com/ </summary> 
-  Offers additional visualizations for your dashboards on top of ApexCharts
+    <summary>FusionCharts: ♂ https://apexcharts.com/  ▽ </summary> 
   
-  ![FusionCharts](https://upload.wikimedia.org/wikipedia/commons/9/95/FusionCharts_JavaScript_Charting_Library.png)
+    Offers additional visualizations for your dashboards on top of ApexCharts
+    ![FusionCharts](https://upload.wikimedia.org/wikipedia/commons/9/95/FusionCharts_JavaScript_Charting_Library.png)
 </details>
 
 <details>
-    <summary>D3: ♂ https://github.com/d3/d3 </summary> 
+    <summary>D3: ♂ https://github.com/d3/d3  ▽ </summary> 
+  
     Bring data to life with SVG, Canvas and HTML   
     ![D3.js](https://skyose.com/wp-content/uploads/2018/10/maxresdefault-1-1.jpg)
 </details>
 
 <details>
-    <summary>ThreeJS: JavaScript 3D library ♂ https://threejs.org/ </summary> </details>
+    <summary>ThreeJS: JavaScript 3D library ♂ https://threejs.org/  ▽ </summary> </details>
 <details>
-    <summary>Rough.js: Create graphics with a hand-drawn, sketchy, appearance. ♂ https://github.com/pshihn/rough</summary> </details> 
+    <summary>Rough.js: Create graphics with a hand-drawn, sketchy, appearance. ♂ https://github.com/pshihn/rough  ▽ </summary> </details> 
+    
 <details>
     <summary>InfoVis: Tools for creating Interactive Data Visualizations for the Web. ♂ https://philogb.github.io/jit/ </summary> </details>
+    
 <details>
     <summary>Stdlib-js: Standard library for JavaScript and Node.js, with rich Mathematics, Data visualization and Utility functions ♂ https://stdlib.io/ </summary> </details>
 <details>
