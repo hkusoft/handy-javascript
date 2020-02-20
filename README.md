@@ -1,6 +1,8 @@
 # handy-javascript
 A collection of JavaScript that may be handy to you.
 
+{% include button.html button_name="My Button" button_class="primary" %}
+
 ## Graphics, Charts, Diagrams, Visualizations
 
 <details> 
