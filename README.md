@@ -200,7 +200,7 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 
 ![VideoJS](https://raw.githubusercontent.com/maluklo/Skin-video-js-6.2.6/master/video-js.png)
 
-<details>
+</details>
     
 
 
