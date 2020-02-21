@@ -129,21 +129,11 @@ Bring data to life with SVG, Canvas and HTML
 <details>
     <summary>Lodash lodash.com :A JavaScript utility library delivering consistency, modularity, performance, & extras.</summary> </details>
 <details>
-    <summary>Ramda ♂ https://ramdajs.com : Practical functional Javascript</summary> </details> 
-<details>
-    <summary>  :
-<details></details>
-    <summary>  :
-<details></details>
-    <summary>  :
-<details></details>
-    <summary>  :
-<details></details>
-    <summary>  :
+    <summary>Ramda ♂ https://ramdajs.com : Practical functional Javascript</summary> 
+</details> 
+<details>    <summary>  </summary>  <details>
+<details>    <summary>  </summary>  <details>
 
-
-
-</
 
 
 ## Interactions
@@ -172,6 +162,16 @@ Bring data to life with SVG, Canvas and HTML
     <summary>Stdlib-js ♂ https://stdlib.io/ :Standard library for JavaScript and Node.js, with rich Mathematics, Data visualization and Utility functions</summary> </details>
 <details>
     <summary>Math.js ♂ https://mathjs.org :An extensive math library for JavaScript and Node.js</summary> </details> 
+    
+<details>    
+  <summary>VideoJS  ♂ https://videojs.com/ </summary>  
+
+Video.js is a web video player built from the ground up for an HTML5 world. It supports HTML5 video and modern streaming formats, as well as YouTube, Vimeo, and even Flash (through plugins, more on that later).
+
+![VideoJS](https://raw.githubusercontent.com/maluklo/Skin-video-js-6.2.6/master/video-js.png)
+
+<details>
+    
 
 
 ## Machine Learning, AI
