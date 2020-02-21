@@ -27,6 +27,15 @@ Offers additional visualizations for your dashboards on top of ApexCharts
 </details>
 
 <details>
+  <summary>Clipper.js: ♂ https://sourceforge.net/p/jsclipper/wiki/Home%206/  ▽ </summary> 
+   
+Javascript translation of Angus Johnson's C# Clipper Library, which performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
+
+  ![Clipper.js](https://sourceforge.net/p/jsclipper/wiki/Main_Demo%206/)
+ </details>
+
+
+<details>
     <summary>D3: ♂ https://github.com/d3/d3  ▽ </summary>
   
 Bring data to life with SVG, Canvas and HTML   
