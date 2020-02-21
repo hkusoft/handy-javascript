@@ -23,6 +23,7 @@ A collection of JavaScript that may be handy to you.
     <summary>FusionCharts: ♂ https://apexcharts.com/  ▽ </summary> 
   
 Offers additional visualizations for your dashboards on top of ApexCharts
+
 ![FusionCharts](https://upload.wikimedia.org/wikipedia/commons/9/95/FusionCharts_JavaScript_Charting_Library.png)
 </details>
 
@@ -31,7 +32,8 @@ Offers additional visualizations for your dashboards on top of ApexCharts
    
 Javascript translation of Angus Johnson's C# Clipper Library, which performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
 
-  ![Clipper.js](https://sourceforge.net/p/jsclipper/wiki/Main_Demo%206/)
+![Clipper.js](https://sourceforge.net/p/jsclipper/wiki/_discuss/thread/66d9aef8/3bd6/attachment/screenshot_demo_5.0.2.1_slice_new.png)
+
  </details>
 
 
