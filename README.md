@@ -3,12 +3,6 @@ A collection of JavaScript that may be handy to you.
 
 ## Graphics, Charts, Diagrams, Visualizations
 
-| JS  	| Web  	|  GitHub 	|  Description	|   	|
-|---	|---	|---	|---	|---	|
-| Fabric.js|  [🌐](http://fabricjs.com/) 	|   	|   	|   	|
-
-
-
 <details> 
   <summary>Fabric.js: ♂ http://fabricjs.com/ ▽ </summary> 
   A powerful and simple Javascript HTML5 canvas library 
