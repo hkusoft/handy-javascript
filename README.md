@@ -149,8 +149,8 @@ Bring data to life with SVG, Canvas and HTML
 <details>
     <summary>Ramda ♂ https://ramdajs.com : Practical functional Javascript</summary> 
 </details> 
-<details>    <summary>  </summary>  <details>
-<details>    <summary>  </summary>  <details>
+<details>    <summary>  </summary>  </details>
+<details>    <summary>  </summary>  </details>
 
 
 
