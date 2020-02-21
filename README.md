@@ -98,34 +98,52 @@ Bring data to life with SVG, Canvas and HTML
 -[NGX Bootstrap ♂ https://github.com/valor-software/ngx-bootstrap : At 3.5K stars, this library contains all core (and not only  Bootstrap components powered by Angular
 <details>
     <summary>Vue ♂ https://github.com/bootstrap-vue/bootstrap-vue :  Brings the power of Bootstrap, a widely used CSS library.</summary> </details>
+      
 <details>
-    <summary>Storefrontui ♂ https://github.com/Divanteltd/storefront-ui : A Vue.js-based library of UI components for developers, designers and agencies striving to build storefronts.</summary> </details> 
+    <summary>Storefrontui ♂ https://github.com/Divanteltd/storefront-ui : A Vue.js-based library of UI components for developers, designers and agencies striving to build storefronts.</summary> 
+</details> 
+      
 <details>
-    <summary>Buefy ♂ https://github.com/buefy/buefy : A lightweight UI component library based on Vue and Bulma, a CSS framework.</summary> </details>
+<summary>Buefy ♂ https://github.com/buefy/buefy : A lightweight UI component library based on Vue and Bulma, a CSS framework.</summary> 
+</details>
+
+
 <details>
-    <summary>Vuetify ♂ https://github.com/vuetifyjs/vuetify : UI component libraries based on Vue</summary> </details>
+    <summary>Vuetify ♂ https://github.com/vuetifyjs/vuetify : UI component libraries based on Vue</summary> 
+</details>
+
 <details>
-    <summary>Dhtmlx ♂ https://github.com/DHTMLX : A JavaScript GUI widget library for building dynamic web applications with desktop-like user experience and Ajax data loading</summary> </details>
+    <summary>Dhtmlx ♂ https://github.com/DHTMLX : A JavaScript GUI widget library for building dynamic web applications with desktop-like user experience and Ajax data loading</summary> 
+</details>
+
 <details>
-    <summary>Storybook ♂ https://github.com/storybookjs/storybook :  UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!</summary> </details> 
+    <summary>Storybook ♂ https://github.com/storybookjs/storybook :  UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!</summary> 
+</details> 
+
 <details>
-    <summary>Primefaces ♂ https://github.com/primefaces/primefaces : A comprehensive component suite including over 70 UI components with different themes from material to flat design</summary> </details>
+    <summary>Primefaces ♂ https://github.com/primefaces/primefaces : A comprehensive component suite including over 70 UI components with different themes from material to flat design</summary> 
+</details>
+
 <details>
-    <summary>Omniscient ♂ https://omniscientjs.github.io/ : Functional programming in Javascript for your UI using virtual DOM through React and Immutable structures</summary> </details>
+    <summary>Omniscient ♂ https://omniscientjs.github.io/ : Functional programming in Javascript for your UI using virtual DOM through React and Immutable structures</summary> 
+</details>
+
 <details>
     <summary>Knockout.js ♂ https://knockoutjs.com/ : Dynamic JavaScript UIs using the Model-View-ViewModel (MVVM  pattern</summary> </details>
 
 
-
-
-
-
-
 ## Functional JS
+
 <details>
-    <summary>Cycle.js ♂ https://cycle.js.org/ :A functional and reactive JavaScript framework for predictable code</summary> </details>
+    <summary>Cycle.js ♂ https://cycle.js.org/ :A functional and reactive JavaScript framework for predictable code</summary> 
+</details>
+
+
 <details>
-    <summary>Awesome FP JS ♂ https://github.com/stoeffel/awesome-fp-js : A curated list of awesome functional programming stuff in js</summary> </details>
+    <summary>Awesome FP JS ♂ https://github.com/stoeffel/awesome-fp-js : A curated list of awesome functional programming stuff in js</summary> 
+</details>
+
+
 <details>
     <summary>Lodash lodash.com :A JavaScript utility library delivering consistency, modularity, performance, & extras.</summary> </details>
 <details>
@@ -137,31 +155,43 @@ Bring data to life with SVG, Canvas and HTML
 
 
 ## Interactions
+
 <details>
-    <summary>Craft.js ♂ https://craft.js.org : A React Framework for building extensible drag and drop page editors</summary> </details>
+    <summary>Craft.js ♂ https://craft.js.org : A React Framework for building extensible drag and drop page editors</summary> 
+</details>
+
 <details>
-    <summary>Velocity.js ♂ http://velocityjs.org/ :  An animation engine with the same API as jQuery's $.animate( .</summary> </details> 
--[Verge3D ♂ https://www.soft8soft.com/verge3d/ : The most effective toolkit for creating web interactives
+    <summary>Velocity.js ♂ http://velocityjs.org/ :  An animation engine with the same API as jQuery's $.animate( .</summary> 
+</details> 
+
+[Verge3D ♂ https://www.soft8soft.com/verge3d/ : The most effective toolkit for creating web interactives
+
 <details>
     <summary>Anime.js ♂ https://animejs.com/ : A lightweight JavaScript animation library with a simple, yet powerful API.</summary> </details>
     
 <details>
     <summary>GreenSock ♂ https://greensock.com/ : A lightweight JavaScript animation library with a simple, yet powerful API.</summary> </details>
     
-    
-    
 
 ## Games & rendering engines
+
 <details>
-    <summary>Pixi.js ♂ https://www.pixijs.com/ : Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.</summary> </details>
+    <summary>Pixi.js ♂ https://www.pixijs.com/ : Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. </summary> 
+</details>
 
 ## Maths
+
 <details>
     <summary>MathJAX ♂ https://www.mathjax.org/ : A JavaScript display engine for mathematics that works in all browsers.</summary> </details>
+    
 <details>
-    <summary>Stdlib-js ♂ https://stdlib.io/ :Standard library for JavaScript and Node.js, with rich Mathematics, Data visualization and Utility functions</summary> </details>
+    <summary>Stdlib-js ♂ https://stdlib.io/ :Standard library for JavaScript and Node.js, with rich Mathematics, Data visualization and Utility functions</summary> 
+</details>
+
+    
 <details>
-    <summary>Math.js ♂ https://mathjs.org :An extensive math library for JavaScript and Node.js</summary> </details> 
+    <summary>Math.js ♂ https://mathjs.org :An extensive math library for JavaScript and Node.js</summary> 
+</details> 
     
 <details>    
   <summary>VideoJS  ♂ https://videojs.com/ </summary>  
@@ -175,16 +205,28 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 
 
 ## Machine Learning, AI
+
 <details>
-    <summary>BrainJS ♂ https://brain.js.org : Neural networks in JavaScript</summary> </details>
+    <summary>BrainJS ♂ https://brain.js.org : Neural networks in JavaScript</summary> 
+</details>
+
 <details>
-    <summary>TensorFlow.js ♂ https://www.tensorflow.org/js : A library for machine learning in JavaScript</summary> </details>
+    <summary>TensorFlow.js ♂ https://www.tensorflow.org/js : A library for machine learning in JavaScript</summary> 
+</details>
+
 <details>
-    <summary>ML5.js ♂ https://learn.ml5js.org/docs/#/ : Friendly Machine Learning for the Web</summary> </details>
+    <summary>ML5.js ♂ https://learn.ml5js.org/docs/#/ : Friendly Machine Learning for the Web</summary> 
+</details>
+
 <details>
-    <summary>MachineLearn.js ♂ https://www.machinelearnjs.com/ : Machine Learning library for the web and Node</summary> </details> 
+    <summary>MachineLearn.js ♂ https://www.machinelearnjs.com/ : Machine Learning library for the web and Node</summary>
+</details> 
+
 <details>
-    <summary>Limdu.js ♂ https://github.com/erelsgl/limdu : Machine-learning for Node.js</summary> </details>
+    <summary>Limdu.js ♂ https://github.com/erelsgl/limdu : Machine-learning for Node.js</summary> 
+</details>
+
+
 <details>
     <summary>Face-api.js ♂ https://github.com/justadudewhohacks/face-api.js : JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js</summary> </details>
 <details>
