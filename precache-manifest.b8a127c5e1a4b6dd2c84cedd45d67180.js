@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "364607d6fae7b36aafa5edff942701d0",
+    "revision": "89b280e0d18b0e7d722d9556d40fcde7",
     "url": "/handy-javascript/index.html"
   },
   {
-    "revision": "e3e8f129cfcb077337d3",
+    "revision": "8e9084a01eb1487a758c",
     "url": "/handy-javascript/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "e82ddedc211108d0cb70",
-    "url": "/handy-javascript/static/js/2.e8b47e5f.chunk.js"
+    "revision": "ec2c90bd15de06b06637",
+    "url": "/handy-javascript/static/js/2.598dc523.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/handy-javascript/static/js/2.e8b47e5f.chunk.js.LICENSE.txt"
+    "url": "/handy-javascript/static/js/2.598dc523.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3e8f129cfcb077337d3",
-    "url": "/handy-javascript/static/js/main.443ac0ed.chunk.js"
+    "revision": "8e9084a01eb1487a758c",
+    "url": "/handy-javascript/static/js/main.99727a1d.chunk.js"
   },
   {
     "revision": "0bb0cc815c38dbc8779c",
