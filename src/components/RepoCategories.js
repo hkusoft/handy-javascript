@@ -1,13 +1,15 @@
-import React, {Component} from 'react';
+import React from 'react';
+import Repo from "./Repo";
 
-class RepoCategories extends Component {
-    render() {
-        return (
-            <div>
-                This is a category
-            </div>
-        );
-    }
+function RepoCategories({title}) {
+    return (
+
+        <div>
+            <h2>{title}</h2>
+            <hr />
+            <Repo githubURL={"ReactJS"}/>
+        </div>
+    );
 }
 
 export default RepoCategories;
