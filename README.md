@@ -65,6 +65,9 @@ Bring data to life with SVG, Canvas and HTML
 <details>
     <summary>react-Vis: A collection of react components to render common data visualization charts. ♂ https://github.com/uber/react-vis </summary>
 </details>
+<details>
+    <summary>Victory: Charting for React and React Native. ♂ https://formidable.com/open-source/victory/ </summary>
+</details>
 
 ## UI components
 <details>
