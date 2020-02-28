@@ -62,7 +62,9 @@ Bring data to life with SVG, Canvas and HTML
     <summary>AmCharts4: JavaScript Charts & Maps Programming library ♂ https://www.amcharts.com/ </summary> </details>
 <details>
     <summary>LightningChart JS: Interactive & responsive charts with an exceptionally powerful speed of rendering. ♂ https://www.arction.com/lightningchart-js/ </summary> </details>
-
+<details>
+    <summary>react-Vis: A collection of react components to render common data visualization charts. ♂ https://github.com/uber/react-vis </summary>
+</details>
 
 ## UI components
 <details>
