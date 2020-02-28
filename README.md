@@ -253,6 +253,7 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 <details></details>
    
  -[DiscordJS](https://discordapp.com/developers/docs/intro) To create a bot with discord.js
+ -[Push.JS](https://pushjs.org/#)The world's most versatile desktop notifications framework reaches 1.0
 
 ## DB 
 <details>
