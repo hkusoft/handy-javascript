@@ -256,7 +256,10 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 
 ## DB 
 <details>
-    <summary>Knex.js ♂ http://knexjs.org/ : A SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.</summary> </details> 
+    <summary>Knex.js ♂ http://knexjs.org/ : A SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.</summary> </details>
+<details>
+    <summary>PouchDB ♂ https://pouchdb.com : an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.</summary>
+</details> 
 <details>
     <summary>  :
 </summary> </details>
