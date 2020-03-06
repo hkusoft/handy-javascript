@@ -36,6 +36,9 @@ Javascript translation of Angus Johnson's C# Clipper Library, which performs cli
 
  </details>
 
+[Croppr.js](https://jamesooi.design/Croppr.js) Lightweight, awesome, vanilla JS image cropper.
+
+
 
 <details>
     <summary>D3: ♂ https://github.com/d3/d3  ▽ </summary>
