@@ -268,3 +268,6 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 - [RemarkJS](https://github.com/gnab/remark)
 
 - [Adonis](https://adonisjs.com/)
+
+## Others
+[jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
