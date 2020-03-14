@@ -250,11 +250,10 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 <details>
     <summary>Synaptic.js ♂ http://caza.la/synaptic/#/ : The javascript architecture-free neural network library for node.js and the browser</summary> </details>
      
-<details></details>
-    <summary>  :
-<details></details>
-    <summary>  :
-<details></details>
+<details> 
+    <summary>  :</summary> </details>
+<details> 
+    <summary>  :</summary> </details>
    
  -[DiscordJS](https://discordapp.com/developers/docs/intro) To create a bot with discord.js
  -[Push.JS](https://pushjs.org/#)The world's most versatile desktop notifications framework reaches 1.0
@@ -266,12 +265,12 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
     <summary>PouchDB ♂ https://pouchdb.com : an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.</summary>
 </details> 
 <details>
-    <summary>  :
-</summary> </details>
-
-- [RemarkJS](https://github.com/gnab/remark)
-
-- [Adonis](https://adonisjs.com/)
+    <summary>rxdb ♂ https://rxdb.info/ : A realtime Database for JavaScript Applications</summary> </details>
+<details>
+<summary> [RemarkJS](https://github.com/gnab/remark)</summary> </details>
+<details> 
+<summary> [Adonis](https://adonisjs.com/)</summary> </details>
 
 ## Others
-[jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
+<details> 
+<summary> [jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf</summary> </details>
