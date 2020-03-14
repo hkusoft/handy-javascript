@@ -248,7 +248,8 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 <details>
     <summary>ConvNetJS ♂ https://cs.stanford.edu/people/karpathy/convnetjs/started.html : Deep Learning in your browser</summary> </details>
 <details>
-    <summary>  :
+    <summary>Synaptic.js ♂ http://caza.la/synaptic/#/ : The javascript architecture-free neural network library for node.js and the browser</summary> </details>
+     
 <details></details>
     <summary>  :
 <details></details>
