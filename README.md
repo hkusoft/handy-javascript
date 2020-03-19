@@ -272,6 +272,8 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 <details> 
     <summary> [Adonis](https://adonisjs.com/)</summary> </details>
 
+[SailsJS](https://sailsjs.com/) Sails makes it easy to build custom, enterprise-grade Node.js apps.
+
 ## Others
 <details> 
     <summary> [jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf</summary> </details>
