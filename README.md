@@ -274,6 +274,12 @@ Video.js is a web video player built from the ground up for an HTML5 world. It s
 
 [SailsJS](https://sailsjs.com/) Sails makes it easy to build custom, enterprise-grade Node.js apps.
 
+## Tracking
+<details>
+    <summary>fingerprintjs2 ♂https://github.com/fingerprintjs/fingerprintjs2 : Modern & flexible browser fingerprinting library.</summary>
+</details>
+
 ## Others
 <details> 
-    <summary> [jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf</summary> </details>
+    <summary> [jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf</summary> 
+</details>
