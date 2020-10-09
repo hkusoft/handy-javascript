@@ -160,7 +160,9 @@ Bring data to life with SVG, Canvas and HTML
 <details>
     <summary>Axios ♂ https://github.com/axios/axios : Promise based HTTP client for the browser and node.js </summary>  
 </details>
-<details>    <summary>  </summary>  </details>
+<details>
+    <summary>Flow ♂ https://flow.org : A static type checker for javascript</summary>  
+</details>
 
 
 
